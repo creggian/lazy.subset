@@ -2,7 +2,7 @@ rm(list=ls())
 
 source("../lib/lazy.subset.R")
 
-filename="../data/dummy1.csv"
+filename <- "../data/dummy1.csv"
 r.idx <- c(2,4,5)
 c.idx <- c(4,5,6)
 
