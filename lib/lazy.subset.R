@@ -6,6 +6,8 @@
 # to read the dataset line by line and subsetting according to
 # index of rows and colums. The output of 'awk' is then
 # provided as input to R (see example) 
+#
+# @require  awt
 
 ## @param   idx         row index set to subset
 ## @param   filename    valid path
